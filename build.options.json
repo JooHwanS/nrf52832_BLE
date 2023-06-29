@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\JH\\AppData\\Local\\Arduino15\\libraries",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "adafruit:nrf52:feather52832:softdevice=s132v6,debug=l0,debug_output=serial",
+  "hardwareFolders": "c:\\Users\\JH\\AppData\\Local\\Arduino15\\packages,c:\\Users\\JH\\Documents\\Arduino\\hardware",
+  "otherLibrariesFolders": "c:\\Users\\JH\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\JH\\Desktop\\yeihwan\\bleuart2\\bleuart2.ino"
+}
